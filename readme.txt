@@ -1,2 +1,4 @@
-# Anonymous Submission of Replication Package for SEAA 2025 Review
-Reviewers have access to password. See paper.
+# On Assessing the Relevance of Code Reviews Authored by Generative Models
+# Replication Package
+
+See paper.
